@@ -204,8 +204,9 @@ int main()
 					// std::wcout << std::hex << "0x" << handle.Handle << " " << objectName.Buffer << std::endl;
 					std::map<std::wstring, int> list
 					{
-						{ L"seria_gate.ogg", 100 },
-						{ L"siroco_ready.ogg", 200 },
+						// test
+						// { L"seria_gate.ogg", 100 },
+						// { L"siroco_ready.ogg", 200 },
 						{ L"siroco_broken_d.ogg", 1 },
 						{ L"siroco_broken_o1.ogg", 2 },
 						{ L"siroco_broken_o2.ogg", 3 },
